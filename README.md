@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning ... about Cybersecurity and to build a scalable application!!
+- 📫 How to reach me: ...well🤔
+- Email: anjeshpathak2021@gmail.com
+- LinkedIn: linkedin.com/in/anjesh-pathak
